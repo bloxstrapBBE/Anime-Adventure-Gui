@@ -1,4 +1,4 @@
-# **ANIME ADVENTURES SCRIPT**
+#                                  **ANIME ADVENTURES SCRIPT**
 
 ---
 
@@ -6,7 +6,7 @@
 
 ---
 
-## **PASS - 2025AA**
+##                                     **PASS - 2025AA**
 
 ---
 
